@@ -10,7 +10,7 @@ import React from "react";
  * About background image
  *
  * Below is a sample image. Upload the image of your choice into the "images"
- * directory and import here for use. Then, set imageAltText to string that 
+ * directory and import here for use. Then, set imageAltText to string that
  * represents what you see in that image.
  *
  * Need an image? Check out https://unsplash.com to download a image you
@@ -24,19 +24,19 @@ const imageAltText = "purple and blue abstract background";
  * Sort description that expands on your title on the Home component.
  */
 const description =
-  "I'm a UI/UX student studying at Barnett Technical University. I enjoy creating unique and simplistic user interfaces in creative ways.";
+  "I'm a IT student studying at Gyan Ganga Institute of Technology & Sciences. As a passionate full-stack web developer with a strong background in HTML, CSS, JavaScript, and Flutter, I strive to create visually appealing and intuitive user interfaces that deliver results for clients. With experience in developing E-commerce sites, calculators, and product and movie management systems, I am a highly motivated and goal-driven individual with a passion for technology and a drive to succeed.";
 
 /**
  * List of some of skills or technologies you work on, are learning,
  * passionate about, or enjoy,
  */
 const skillsList = [
-  "Web design",
-  "User experience",
-  "Inclusive design",
-  "Focus group testing",
+  "Full-Stack Web Development",
+  "Cross-Platform App Development",
+  "Cloud Computing",
+  "User Experience (UX) Design",
   "Mobile user interfaces",
-  "Graphic design",
+  "Focus Group Testing",
 ];
 
 /**

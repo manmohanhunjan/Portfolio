@@ -40,6 +40,12 @@ section img.background {
   pointer-events: none;
   position: absolute;
   top: 0;
+  object-position: center 20%;
+  filter: brightness(120%);
+  /* filter: brightness(1.2) contrast(1.2); */
+  filter: sharpen(1);
+  filter: saturate(1.5);
+  /* filter: sepia(0.2) hue-rotate(-20deg); */
   transform: translate(-50%, 0);
   width: 100vmax;
   z-index: -1;
